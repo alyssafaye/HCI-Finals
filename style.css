@@ -130,3 +130,23 @@ body{
 	background-color: #fff;
 	color: #fff;
 }
+.box{
+
+    width: 800px;
+    height: 400px;
+    padding: 70px;
+    text-align: center;
+    margin-top: 0px;
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+
+}
+
+.box p{
+	float: left;
+	text-align: justify;
+	position: absolute;
+	left: 10px;
+	margin-right: 80px;
+	margin-left: 70px
+}
